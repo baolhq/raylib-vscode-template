@@ -1,0 +1,7 @@
+# Ignore build directory
+dist/
+
+# Ignore IDEs preferences
+.vs/
+.vscode/settings.json
+.idea/
