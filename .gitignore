@@ -1,0 +1,6 @@
+# Ignore build directory
+dist/
+
+# Ignore IDEs preferences
+.vs/
+.idea/
